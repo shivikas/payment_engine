@@ -1,5 +1,5 @@
 # Payment Engine
-Dummy payments engine that reads a series of transactions from a CSV, updates client accounts,
+Dummy payment engine that reads a series of transactions from a CSV, updates client accounts,
 handles disputes and chargebacks, and then outputs the state of clients accounts as a CSV.
 
 ## Packages to install
